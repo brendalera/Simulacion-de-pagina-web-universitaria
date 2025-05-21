@@ -8,3 +8,9 @@ Deberán crear el nuevo sistema de inscripción a materias para las universidade
 - Ver materias inscritas.
 - Ver materias recomendadas.
 - Ver su perfil
+
+Para correr la api: En la terminal
+1. npm install (Para instalar dependencias)
+2. node app.js (Para correr la web)
+
+**Este proyecto no persiste sus datos**
