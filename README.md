@@ -1,4 +1,4 @@
-# Simulacion-de-pagina-web-universitaria
+# Simulación de página web universitaria
 Sistema de inscripción a materias para las universidades nacionales
 Contexto
 Deberán crear el nuevo sistema de inscripción a materias para las universidades nacionales. El estudiante podrá:
